@@ -19,6 +19,13 @@ hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/K
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 
+########################## Taxonomies ############################
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  series = 'series'
+  author = "authors"
+
 ########################### Services #############################
 [services]
 [services.googleAnalytics]

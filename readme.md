@@ -21,13 +21,13 @@ Please refer to installation and setup instructions of the <a href="https://gith
 
 ## 👉 Differences to upstream repository
 
- - (opinionated) tweak to search button styling in certain configurations
  - setting for widget visibility
+ - shortcode for article series 
  - (opinionated) tweaks to blog article list in certain configurations
-
+ - ~~(opinionated) tweak to search button styling in certain configurations~~ (merged into upstream)
+ 
 ## 👉 Planned changes
 
- - shortcode for article series 
  - shortcode for GDPR compliant youtube element
 
 ---
@@ -43,6 +43,8 @@ If your problem or idea has not been addressed yet, feel free to [open a new iss
 
 Copyright (c) 2023 - Present, Designed & Developed by [Zeon Studio](https://zeon.studio/)
 
-**Code License:** Released under the [MIT](https://github.com/zeon-studio/hugoplate/blob/main/LICENSE) license.
+Copyright (c) 2024 - Present, Copyright The [hugoplate_modified](https://github.com/mbrejla/hugoplate_modified) Contributors.
+
+**Code License:** Released under the [MIT](https://github.com/mbrejla/hugoplate_modified/blob/main/LICENSE) license.
 
 **Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.

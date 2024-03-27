@@ -30,3 +30,12 @@
 
 - id: empty_search_results_placeholder
   translation: Type something to search..
+
+- id: article_part_of_series
+  translation: "This article is part of a series."
+
+- id: article_part
+  translation: "Part"
+
+- id: article_this_article
+  translation: "This article."

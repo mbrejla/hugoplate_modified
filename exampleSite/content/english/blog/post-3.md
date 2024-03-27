@@ -8,7 +8,11 @@ categories: ["Software"]
 author: "John Doe"
 tags: ["software", "tailwind"]
 draft: false
+series: ["ExampleSeries"]
+series_order: 3
 ---
+
+{{< series-toc >}}
 
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 

@@ -3,7 +3,7 @@ extended = true
 min = "0.115.2"
 
 [[imports]]
-path = "github.com/zeon-studio/hugoplate"
+path = "github.com/mbrejla/hugoplate_modified"
 
 [[imports]]
 path = "github.com/gethugothemes/hugo-modules/search"
@@ -91,3 +91,6 @@ path = "github.com/gethugothemes/hugo-modules/seo-tools/google-tag-manager"
 
 # [[imports]]
 # path = "github.com/gethugothemes/hugo-modules/seo-tools/counter-analytics"
+
+[[imports]]
+path = "github.com/mbrejla/hugo-modules/series-toc"

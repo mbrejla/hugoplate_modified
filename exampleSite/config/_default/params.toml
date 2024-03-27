@@ -52,6 +52,11 @@ show_description = true
 show_tags = true
 show_categories = true
 
+# series-toc
+# series-toc module: https://github.com/mbrejla/hugo-modules/tree/main/series-toc
+
+[series_toc]
+series_open = false
 
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo

@@ -8,7 +8,12 @@ categories: ["Technology", "Data"]
 author: "Sam Wilson"
 tags: ["technology", "tailwind"]
 draft: false
+series: ["ExampleSeries"]
+series_order: 2
+series_open: true
 ---
+
+{{< series-toc >}}
 
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
