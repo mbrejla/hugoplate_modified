@@ -10,6 +10,9 @@ tags: ["software", "tailwind"]
 draft: false
 series: ["ExampleSeries"]
 series_order: 3
+# Due to Hugos way of generating summaries (and no simple way to filter shortcode content from it), use the manual
+# summary in the frontmatter. Otherwise {{< series-toc >}}-contents will show up in the summary, if used at the top of an article.
+summary: "Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna."
 ---
 
 {{< series-toc >}}
