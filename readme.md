@@ -23,6 +23,7 @@ Please refer to installation and setup instructions of the <a href="https://gith
 
  - setting for widget visibility
  - shortcode for article series 
+ - (opinionated) use full page width in taxonomy layout
  - (opinionated) tweaks to blog article list in certain configurations
  - ~~(opinionated) tweak to search button styling in certain configurations~~ (merged into upstream)
  

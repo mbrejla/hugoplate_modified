@@ -26,4 +26,5 @@ require (
 	github.com/gethugothemes/hugo-modules/table-of-contents v0.0.0-20240414052440-de0e16b3cfb6 // indirect
 	github.com/gethugothemes/hugo-modules/videos v0.0.0-20240414052440-de0e16b3cfb6 // indirect
 	github.com/mbrejla/hugo-modules/series-toc v0.0.0-20240327182644-95f4e6cc170b // indirect
+	github.com/mbrejla/hugoplate_modified v0.0.0-20240415140518-175e9155e184 // indirect
 )
