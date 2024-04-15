@@ -4,7 +4,7 @@ licenselink = "https://github.com/mbrejla/hugoplate_modified/blob/main/LICENSE"
 description = "Forked version of Hugoplate, a free starter template built with Hugo and TailwindCSS."
 homepage = "https://github.com/mbrejla/hugoplate-modified"
 demosite = ""
-min_version = "0.121.2"
+min_version = "0.124.1"
 
 tags = [
   "blog",
